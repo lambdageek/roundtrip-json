@@ -1,0 +1,7 @@
+{
+        "version": 0,
+        "contracts": {
+          "foo": 1,
+          "bar": 2,
+        }
+}
